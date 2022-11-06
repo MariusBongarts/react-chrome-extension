@@ -1,14 +1,6 @@
-## New Tab Chrome Example
+## Chrome Extension using React
 
-Read this article to build your own New-Tab Chrome Extension:
+Read this article to build your own Chrome Extension using react:
 
-[Building Your Own New Tab Chrome Extension](https://web-highlights.com/blog/building-your-own-new-tab-chrome-extension/).
+[How To Build A Chrome Extension Using React](https://web-highlights.com/blog/building-your-own-new-tab-chrome-extension/).
 
-# Demo
-
-[Live Demo](https://mariusbongarts.github.io/new-tab-chrome-extension/)
-
-
-
-
-# react-chrome-extension
