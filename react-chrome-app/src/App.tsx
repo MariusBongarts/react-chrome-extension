@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <header>
-        <h5>Hello From React App</h5>
+        <h2>Hello From React App 👋</h2>
       </header>
     </div>
   );
